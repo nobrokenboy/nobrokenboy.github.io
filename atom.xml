@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>不破小子的博客</title>
+  
+  <subtitle>隔了一年，开启新的旅程</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://nobrokenboy.com/"/>
+  <updated>2018-09-19T01:36:44.659Z</updated>
+  <id>http://nobrokenboy.com/</id>
+  
+  <author>
+    <name>Jessica Chan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Hexo创建博客网站</title>
+    <link href="http://nobrokenboy.com/2016/10/04/%E4%BD%BF%E7%94%A8Hexo%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/"/>
+    <id>http://nobrokenboy.com/2016/10/04/使用Hexo创建博客网站/</id>
+    <published>2016-10-04T04:59:49.000Z</published>
+    <updated>2018-09-19T01:36:44.659Z</updated>
+    
+    <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;使用Hexo使用的好处：Hexo 是高效的静态站点生成框架，她基于 Node.js。通过 Hexo你可以轻松地使用Markdown编写文章，除了Markdown本身的语法之外，还可以使用 Hexo提供的标签插件来快速的插入特定形式的内容。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;使用Hexo使用的好处：Hexo 是高效的静态站点生成框架，她基于 Node.js。通过 Hexo你可以轻松地使用Markdown编写文章，除了Markdown本身的语法之外，还可以使用 Hexo提供的标签插件来快速的插入特定
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>建博客之番外</title>
+    <link href="http://nobrokenboy.com/2016/10/04/%E5%BB%BA%E5%8D%9A%E5%AE%A2%E4%B9%8B%E7%95%AA%E5%A4%96/"/>
+    <id>http://nobrokenboy.com/2016/10/04/建博客之番外/</id>
+    <published>2016-10-03T16:19:02.000Z</published>
+    <updated>2018-09-19T01:36:44.660Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/3194314-4f988ec64c9a825b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt=""><br> </p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 话说，不破小子在前端世界里已经混了快一年半多，但是连个装逼的神器都木有。好吧，游览了这么多博客，每次看到别人的博客，我都有种想马上亲手搭建博客的feel,然而，懒癌症严重的我，一直拖到国庆来做。之前经常看到很多人在github上做项目演示，演示网址常带有“github.io”的字段，后来经过摸索才发现，github支持每个用户建立一个xxx.github.io的静态博客,同时github支持用户使用gh-pages分支做项目演示。昨天，在偶然情况下，我发现基于node.js的Hexo框架用来搭建静态博客网站还是挺不错的，资料丰富，API文档较全面，操作简单，已有现成的主题模板。至少，从昨天开始搭建完毕到现在，我总体上还是收益匪浅的，今天试换主题，还是比较简单，只需要npm获取主题以及修改_config.yml文件即可。</p><p></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总之，我很开心，马上我就可以真正开拓自己的博客，下一篇我会对使用hexo框架搭建博客进行具体化描述以及整理一下资料进行分享。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://upload-images.jianshu.io/upload_images/3194314-4f988ec64c9a825b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&quot; 
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
